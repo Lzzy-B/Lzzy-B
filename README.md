@@ -1,3 +1,3 @@
 # hola 
 
-![Snake animation](https://raw.githubusercontent.com/lzzy-B/lzzy-B/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Lzzy-B/Lzzy-B/output/github-snake.svg)
