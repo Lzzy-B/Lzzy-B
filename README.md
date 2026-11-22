@@ -1,4 +1,8 @@
-# hola 
+# Hola, soy Ingeniera en Sistemas Computacionales. 🌸💮
+
+##  Mi Perfil ⭐
+
+Practicante de Sistemas creativa y analítica, orientada a la resolución de problemas y software. Experiencia en pruebas de APIs, depuración y detección de errores, junto con desarrollo backend (Python, Flask) y frontend (Vue). Interés en redes y sistemas físicos (IoT).
 
 ![Snake animation](https://raw.githubusercontent.com/Lzzy-B/Lzzy-B/output/github-snake.svg)
 
@@ -19,8 +23,55 @@
   ##
  
 <div> 
-  <!-- Aquí puedes poner tus propias redes. Cambia los enlaces y los textos -->
 
-  <a href = "mailto:TU_CORREO_AQUI@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/TU_PERFIL_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:ev3.works@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </div>
+
+
+## Habilidades técnicas
+
+### Backend y bases de datos
+- Python, Flask, Node.js
+- SQL, PostgreSQL
+- APIs REST, Postman
+
+### Frontend
+- HTML, CSS, JavaScript
+- Vue.js, Tailwind CSS
+
+### Testing y calidad
+- Pruebas de APIs con Postman
+- Depuración y detección de errores
+- Validación de funcionalidad
+
+### Redes
+- Diseño de topologías de red (lógica y física)
+- Segmentación de red con VLANs
+- Cableado estructurado RJ45 (normas A y B)
+- Configuración y reinicio de switches
+- Cisco Packet Tracer
+
+### IA y datos
+- Redes neuronales, YOLO, Google Colab
+
+### Hardware / IoT
+- Arduino, Raspberry Pi
+- Sensores, pantallas OLED
+
+---
+
+## Habilidades blandas
+
+- Creatividad
+- Resiliencia y perseverancia
+- Resolución de problemas
+- Adaptabilidad
+- Pensamiento analítico
+- Disciplina y compromiso
+- Trabajo en equipo e independiente
+
+## 🌐 Idiomas
+
+- Español: nativo
+- Inglés: B1 (básico-intermedio)
